@@ -1,10 +1,13 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 «𝐀𝐃𝐄𝐄𝐋-𝐌𝐃»
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 <h1 align="center">
   <img src="https://files.catbox.moe/hg5hj6.jpg" alt="𝐀𝐃𝐄𝐄𝐋-𝐌𝐃" width="800" style="border-radius:25px;box-shadow:0 0 30px violet;"/>
 </h1>
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 <h1 align="center">
   <span style="background: linear-gradient(to right, #ff00cc, #3333ff, #00ffcc, #33ff33, #ffcc00); 
                -webkit-background-clip: text; 
@@ -22,29 +25,32 @@
 </p>
 
 ---
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## ⭐ 𝐅𝐎𝐑𝐊 & 𝐒𝐓𝐀𝐑
 <p align="center">
   <a href="https://github.com/Adeel-Xtech/ADEEL-MD/fork">
     <img src="https://img.shields.io/badge/Fork-Repo-ff00ff?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/Adeel-Xtech/ADEEL-MD/fork">
-    <img src="https://img.shields.io/github/stars/ADEEL967MD/ADEEL-MD?style=for-the-badge&color=gold&logo=github" />
+  <a href="https://github.com/Adeel-Xtech/ADEEL-MD/stargazers">
+    <img src="https://img.shields.io/github/stars/Adeel-Xtech/ADEEL-MD?style=for-the-badge&color=gold&logo=github" />
   </a>
 </p>
 <p align="center">💡 Don’t forget to <b>Fork</b> & <b>Star ⭐</b> this repo before using!</p>
 
 ---
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## 🔑 𝐆𝐄𝐓 𝐏𝐀𝐈𝐑
 <p align="center">
-  <a href="https://adeel-md-pair-10-837ca1fe1fcc.herokuapp.com/">
+  <a href="https://adeel-xtech-97cef03b1167.herokuapp.com/">
     <img src="https://img.shields.io/badge/Get-PAIR_CODE-00BFFF?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 <p align="center">📲 Click above button to generate your <b>Session ID</b> (required for deployment).</p>
 
 ---
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## 🚀 𝐃𝐄𝐏𝐋𝐎𝐘𝐄 𝐍𝐎𝐖 
 <p align="center">
@@ -52,20 +58,12 @@
     <img src="https://img.shields.io/badge/Deploy-Heroku-7952B3?style=for-the-badge&logo=heroku&logoColor=white" />
   </a>
 </p>
-
-<p align="center">
-  <a href="https://dashboard.render.com/web/new?template=https://github.com/Adeel-Xtech/ADEEL-MD">
-    <img src="https://img.shields.io/badge/Deploy-Render-000000?style=for-the-badge&logo=render&logoColor=white&color=00ffaa" />
-  </a>
-</p>
-<p align="center">🩷 𝐃𝐄𝐏𝐋𝐎𝐘𝐄 ʜᴇʀᴏᴋᴜ ᴀɴᴅ ʀᴀɴᴅᴇʀ 🐍🍷</p>
+<p align="center">🪸 𝐃𝐄𝐏𝐋𝐎𝐘 ʜᴇʀᴏᴋᴜ 🐍🍷</p>
 
 ---
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## 📡 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐒
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
   <a href="https://whatsapp.com/channel/0029VbBmz4V5vKAIaWfYPT0C">
     <img src="https://img.shields.io/badge/Join-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -77,18 +75,17 @@
 <p align="center">📢 Stay connected with <b>Channel</b> & <b>Owner</b> for updates.</p>
 
 ---
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## ⚡𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 - ✅ MEDIA DOWNLOAD 📺 | Many cool features 🍷  
-✅ GROUP FUCHER 𓆩🐍 | Many cool features 🍷  
-✅ AUTO REPLY 🍨 | Many cool features 🍷  
-✅ AUTO RECORDING HYPING | Many cool features 🍷  
+- ✅ GROUP FUCHER 𓆩🐍 | Many cool features 🍷  
+- ✅ AUTO REPLY 🍨 | Many cool features 🍷  
+- ✅ AUTO RECORDING HYPING | Many cool features 🍷  
 ✨ MORE FEATURES ON THIS BOARD ✨  
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ---
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## 𝐑𝐄𝐌𝐈𝐍𝐃𝐄𝐑
 ❌ NOTICE: This bot is NOT affiliated with WhatsApp Inc.
@@ -98,10 +95,11 @@
 
 📌 Please use this bot responsibly and follow the guidelines 
    to avoid any issues.  
+
 - 🛡️ Owner is not responsible for any misuse.  
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ---
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## 📝 𝐃𝐈𝐒𝐂𝐋𝐀𝐈𝐌𝐄𝐑
 🎯 This bot is made for **Learning & Fun purposes only**.
@@ -109,9 +107,9 @@
 ❌ Do not misuse, sell, or use without giving proper credits.
 
 ✨ Enjoy responsibly and respect the creator’s work.  
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ---
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <h2 align="center">
   🌈✨ ᴛʜᴀɴᴋ ғᴏʀ ᴜsɪɴɢ <span style="color:#00FFFF">𝐀𝐃𝐄𝐄𝐋-𝐌𝐃</span>✨🌈
