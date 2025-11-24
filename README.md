@@ -46,7 +46,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## 🔑 𝐆𝐄𝐓 𝐏𝐀𝐈𝐑
 <p align="center">
-  <a href="https://adeel-xtech-97cef03b1167.herokuapp.com/">
+  <a href="https://adeel-xtech1-4c8d84be2a96.herokuapp.com/">
     <img src="https://img.shields.io/badge/Get-PAIR_CODE-00BFFF?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
