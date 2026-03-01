@@ -70,7 +70,7 @@
   <table>
     <tr>
       <td><a href="https://dashboard.heroku.com/new?template=https://github.com/Adeel-Xtech/ADEEL-MD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=0000FF"/></a></td>
-      <td><a href="https://adeel-md-vps.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/VPS-GOLDEN-FFD700?style=for-the-badge&logo=virtualbox&logoColor=white&labelColor=000000&color=FFD700"/></a></td>
+      <td><a href="https://adeel-md-vps.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/VPS-DEPLOYE-FFD700?style=for-the-badge&logo=virtualbox&logoColor=white&labelColor=000000&color=FFD700"/></a></td>
     </tr>
   </table>
 </div>
