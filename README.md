@@ -52,7 +52,7 @@
 
 <!-- PAIR CODE SVG (BUTTON) -->
 <p align="center">
-  <a href="https://adeel-md-pair-8865b2192eba.herokuapp.com/" target="_blank">
+  <a href="https://adeel-md-pair-84cd1cbca36b.herokuapp.com/" target="_blank">
     <img src="./ADEEL/paircode.svg" width="195" alt="PAIR_CODE – Device Session ID">
   </a>
 </p>
